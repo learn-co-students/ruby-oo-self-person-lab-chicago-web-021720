@@ -1,5 +1,4 @@
 # your code goes here
-PERSON LAB
 class Person
     attr_reader :name, :happiness, :hygiene
     attr_accessor :bank_account
