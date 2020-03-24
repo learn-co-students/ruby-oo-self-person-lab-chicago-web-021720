@@ -12,6 +12,7 @@ attr_accessor :bank_account
         @hygiene = 8
     end 
 
+    #redo #Case Statements #turnary 
     def happiness=(points)
         if points > 10
             @happiness = 10
